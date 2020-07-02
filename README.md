@@ -10,6 +10,7 @@ Event Journal functionality.
 composer require spryker/event-journal
 ```
 
+
 ## Documentation
 
 [Module Documentation](https://academy.spryker.com/developing_with_spryker/module_guide/modules.html)
